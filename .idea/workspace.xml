@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6c2dd00-fec5-4aa1-bf53-cb7de4756b2e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/AJ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Abson.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Adavize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Ahmzyjazzy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Akin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/AmujoDotun.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Anene_Praise.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Anuoluwapo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Ayo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Bashorun.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/BlackJohn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Brainz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Bunmi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Calvin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Chinwesen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Cisca.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Code-Ark.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/CuriousPaul.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/DavidOgaga.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Ddan.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Debbiesuco.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/DemolaM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/DoctorVee.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Folarin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Gloria.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Ife_harrie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Ifeanyichukwu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Ifihan.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ImamMaigaree.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Irene.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/IsaacO.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Israel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/JayJay.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Jennie_von.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/John_pels.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Josh.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/KS101.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Kelvin73.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Kingray.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/LT.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Lekia.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Lord-Jerry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Marzouq.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Nonso.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Nura.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Olamide.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Olaniyiajayi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Olatinted90.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/Paimo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/PatrickOdey.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/abiolafakorede.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/abisalde.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/adaobi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/adex001.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/adroit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/albert.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/aminukano.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/aniebiet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/archyonrails.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/attah.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/aviator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/awesome_me.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/azazel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/azeezat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/azmotech.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/babajide.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/bammydu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/bencastle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/bhosun_.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/bilard.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/bill.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/biosmatrix.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/blessed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/bolah.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/bruce.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/bruno.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/buka4rill.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/cafedeluv.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/cgurusm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/charlesdim.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/chiaju.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/chimdike.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/chimereze.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/chomo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/chow.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/chuck.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/chydee.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/cipher.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/cj264.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/clinsmann.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/codeNameBIG_.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/code_goddess.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/codetillamgone.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/cole.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/cornflakes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/curie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/cybermay.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/dafom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/dami_tomide.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/dammy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/danielawujoola.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/daud.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/david.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/davidkuforiji.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/deji_abiola.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/dekiller_j.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/dev_indigo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/dev_ose.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/devmohy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/dkmdebugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ebereplenty.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/egahi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/elias.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/emmyyusufu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/enwankwo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/enyason.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ephraim.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/erons.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/esa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/etieneabasi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ezehlivinus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/fantasticfoluwa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/festusyuma.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/fori.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/franklinanozie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/freedom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/gelgit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/habprog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/hackthievist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/helewud.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/henry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/hoossayn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/horlaarsco.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/iamserver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/iamwebwiz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ibn_Abubakre.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/idris.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ikenna.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/iwakinomotoye.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/jayekwere.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/jeffholiday.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/jendyjasper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/jude.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/julius.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/justice.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/karrim4real.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/kelechi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/kevchike.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/khris.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/kingzamzon.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/kizito.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/kjart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/kkoonnaammii.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/kowalatam.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/kwekukilu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/lancer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/lasisisodiq.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/leToya.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/legendary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/lordgape.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/lovisgod.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/maerryham.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/malik.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/max_spane.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/mayflower.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/mayowaojo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/mercyikpe.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/modupe.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/mooredh.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/motun.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/moyin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/mrphemi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/muneer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/myk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/mylo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/nathanael.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/neydoo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/notthattayo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/nwosuonyedikachi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/oba.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ocranbillions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/okocha.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/olabisi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/olamidesamuel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/olanetsoft.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/olaweposeyi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/olumide.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/oluwafemi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/oluwatimilehin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/omakoji.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/ontop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/onwuagba.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/onyiiee.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/paul.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/peerichie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/pheeque.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/interns/phil.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/interns/Victor.php" afterPath="$PROJECT_DIR$/views/interns/Victor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/interns/partials/header.php" afterPath="$PROJECT_DIR$/views/interns/partials/header.php" />
+    </list>
+    <ignored path="hng.tech.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hng.tech" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/interns/partials/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/interns/partials/navbar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/interns/partials/header.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hng.tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c2dd00-fec5-4aa1-bf53-cb7de4756b2e" name="Default" comment="" />
+      <created>1554988091974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554988091974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1030" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/interns/partials/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/interns/partials/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
