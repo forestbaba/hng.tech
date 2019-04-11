@@ -11,7 +11,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/dv4lewpt0/image/upload/v1554976925/pre_NYSC_passport.jpg" alt="Adekanye Timilehin">
+                        <img src="https://res.cloudinary.com/dv4lewpt0/image/upload/v1554976925/pre_NYSC_passport.jpg" alt="Faniran Olaitan">
                         <h6>Faniran Olaitan</h6>
                         <p>Backend-end Developer and Android</p>
                         <ul class="list">
